@@ -1,0 +1,5 @@
+Average node degree is the degree of a node that's the number of edges connected to it: 1.478
+Diameter of the graph: 15
+Diameter is the spread of nodes in the graph and serves as the upper bound. 
+Average path length: 4.236
+Average path is the average distance we travel between any pair of nodes, which indicates compactness. 

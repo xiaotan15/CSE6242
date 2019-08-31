@@ -1,0 +1,1 @@
+I used Force Atlas with a repulsion strength of 10000 with adjust by sizes reducing overlap. I choose Betweeness Centrality for Nodes ranking with min 30 and max 150. I partition the nodes using modularity class and different colors. I show labels proportion to their importance. 
